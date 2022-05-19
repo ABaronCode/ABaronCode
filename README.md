@@ -1,4 +1,4 @@
-Hi, my name is Alexander Baronsky and I am currently working on a B.S. in Physics and Computer Science!
+Hi, my name is Alexander Baronsky and I am currently working on a B.S. in Physics and Computer Science at SUNY Albany!
 This is my personal github where I will be storeing personal projects for later referance.
 
 <!---
