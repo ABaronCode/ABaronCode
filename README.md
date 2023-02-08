@@ -1,5 +1,5 @@
-Hi, my name is Alexander Baronsky! I am currently working on a dual degree in B.S. in Physics and Computer Science at SUNY Albany!
-This is my personal github where I will be keeping personal projects for later reference.
+Hi, My current project is finishing my double major in B.S. of Physics, Computer Science and a minor of mathematics at SUNY Albany!
+This is where I will be keeping professional and personal projects for later reference.
 
 <!---
 ABaronCode/ABaronCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
